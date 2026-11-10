@@ -42,9 +42,9 @@
 <img src="https://skillicons.dev/icons?i=python,java,ts,js,go,c,cpp,r,bash,html,css&theme=dark" alt="Python, Java, TypeScript, JavaScript, Go, C, C++, R, Bash, HTML, CSS"><br>
 <sub>Python · Java · TypeScript · JavaScript · Go · C · C++ · R · Bash · HTML · CSS</sub>
 
-**AI and machine learning**<br>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow, scikit-learn"><br>
-<sub>PyTorch · TensorFlow · scikit-learn</sub>
+**AI, machine learning, and MLOps**<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow, scikit-learn"><img src="assets/icons/airflow-mlflow.svg" alt="Apache Airflow, MLflow"><br>
+<sub>PyTorch · TensorFlow · scikit-learn · Apache Airflow · MLflow</sub>
 
 **Web and APIs**<br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,vite,php&theme=dark" alt="React, Next.js, Node.js, Express, FastAPI, Tailwind CSS, Vite, PHP"><br>
@@ -55,8 +55,8 @@
 <sub>PostgreSQL · MySQL · MongoDB · SQLite</sub>
 
 **Cloud and DevOps**<br>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,kubernetes,githubactions,prometheus,linux,git,github&theme=dark" alt="AWS, Azure, Google Cloud, Cloudflare, Docker, Kubernetes, GitHub Actions, Prometheus, Linux, Git, GitHub"><br>
-<sub>AWS · Azure · Google Cloud · Cloudflare · Docker · Kubernetes · GitHub Actions · Prometheus · Linux · Git · GitHub</sub>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,terraform,docker,kubernetes,githubactions,prometheus,linux,git,github&theme=dark" alt="AWS, Azure, Google Cloud, Cloudflare, Terraform, Docker, Kubernetes, GitHub Actions, Prometheus, Linux, Git, GitHub"><br>
+<sub>AWS · Azure · Google Cloud · Cloudflare · Terraform · Docker · Kubernetes · GitHub Actions · Prometheus · Linux · Git · GitHub</sub>
 
 ### Contributions
 
