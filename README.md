@@ -18,11 +18,9 @@
 
 - 🎓 Computer Science grad student at Northeastern University
 - 🛠️ Software Engineer Intern at MundoPrints (Summer 2026): built an LLM-powered instant-quote feature and a RAG chatbot grounded in catalog and policy data
+- 💼 Analytics Manager at HSBC (2024–25): built a React marketplace for internal automation tools that doubled adoption, and automated workflows across 10+ projects with Python and Alteryx, saving ~1,000 hours a year
 - 🏆 1st place, Evidence Navigator track at the AI Healthcare Hackathon at Northeastern (Nov 2026), with [SecondOpinion](https://github.com/benoyj20/SecondOpinion), a fact-checker for cancer research reports
 - 🥇 1st place at the Death Clock Hackathon, hosted by Google Developer Student Club, VIT Chennai (2023), a challenge spanning UI/UX design, web development, and machine learning
-- 📊 Previously Analytics Manager at HSBC
-- 🤖 Into AI systems, data engineering, automation, and full-stack development
-- ♟️ Competitive chess player since my school tournament days
 
 ### What I'm working on
 
