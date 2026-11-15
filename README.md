@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1400&color=F2B66D&center=true&vCenter=true&width=680&lines=Pinpointing+why+AI+coding+agents+slow+down;Fact-checking+cancer+research+against+real+data;Using+computer+vision+to+answer+%22where%27s+my+mug%3F%22;Designing+a+Java+calendar+app+the+object-oriented+way" alt="What I work on">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1400&color=F2B66D&center=true&vCenter=true&width=680&lines=Pinpointing+why+AI+coding+agents+slow+down;Fact-checking+cancer+research+reports+against+real+data;Using+computer+vision+to+answer+%22where%27s+my+mug%3F%22;Designing+a+Java+calendar+app+the+object-oriented+way" alt="What I work on">
 </p>
 
 <p align="center">
