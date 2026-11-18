@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" width="300" height="64" role="img" aria-label="View my portfolio">
+  <style>
+    .label { font: 650 21px system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; fill: #f1ede4; letter-spacing: -.2px; }
+    .arrow { animation: nudge 2.4s cubic-bezier(.4, 0, .2, 1) infinite; }
+    @keyframes nudge {
+      0%, 55%, 100% { transform: translateX(0); }
+      70%           { transform: translateX(4px); }
+    }
+    .sheen { animation: sheen 6s ease-in-out infinite; }
+    @keyframes sheen {
+      0%, 60%   { transform: translateX(-120px); opacity: 0; }
+      65%       { opacity: .5; }
+      85%       { transform: translateX(340px); opacity: .5; }
+      86%, 100% { transform: translateX(340px); opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .arrow, .sheen { animation: none; }
+      .sheen { opacity: 0; }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#7aa8ff"/>
+      <stop offset=".55" stop-color="#c79bf2"/>
+      <stop offset="1"   stop-color="#f2b66d"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"  stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#ffffff" stop-opacity=".18"/>
+      <stop offset="1"  stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x="2" y="2" width="296" height="60" rx="13"/></clipPath>
+  </defs>
+
+  <!-- Card with gradient border -->
+  <rect x="1" y="1" width="298" height="62" rx="14" fill="url(#edge)"/>
+  <rect x="2.5" y="2.5" width="295" height="59" rx="12.5" fill="#161b33"/>
+
+  <g clip-path="url(#clip)">
+    <rect class="sheen" x="0" y="0" width="90" height="64" fill="url(#glow)" transform="skewX(-20)"/>
+  </g>
+
+  <!-- Browser-window glyph -->
+  <g transform="translate(14 14)">
+    <rect width="36" height="36" rx="9" fill="#20264a"/>
+    <rect x="8" y="10" width="20" height="16" rx="3" fill="none" stroke="#f2b66d" stroke-width="1.8"/>
+    <line x1="8" y1="15" x2="28" y2="15" stroke="#f2b66d" stroke-width="1.8"/>
+    <circle cx="11.5" cy="12.5" r=".9" fill="#f2b66d"/>
+    <circle cx="14.5" cy="12.5" r=".9" fill="#f2b66d"/>
+  </g>
+
+  <text class="label" x="62" y="39.5">View my portfolio</text>
+
+  <!-- Arrow -->
+  <g class="arrow">
+    <circle cx="268" cy="32" r="16" fill="#f2b66d"/>
+    <path d="M261 32h13M269 26.5l5.5 5.5-5.5 5.5" fill="none" stroke="#161b33" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

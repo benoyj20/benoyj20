@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://benoy-joseph.vercel.app"><img src="assets/portfolio-cta.svg" alt="View my portfolio" width="330"></a>
+  <a href="https://benoy-joseph.vercel.app"><img src="assets/portfolio-link.svg" alt="View my portfolio" width="280"></a>
 </p>
 
 <p align="center">
