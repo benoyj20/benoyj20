@@ -20,7 +20,7 @@
 
 ### About me
 
-> **Portfolio:** [see my work →](https://benoy-joseph.vercel.app)
+> **Portfolio:** [benoy-joseph.vercel.app](https://benoy-joseph.vercel.app)
 
 - 🎓 Computer Science grad student at Northeastern University
 - 🛠️ Software Engineer Intern at MundoPrints (Summer 2026): built an LLM-powered instant-quote feature and a RAG chatbot grounded in catalog and policy data
