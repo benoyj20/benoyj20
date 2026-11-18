@@ -20,8 +20,6 @@
 
 ### About me
 
-> **Portfolio:** [benoy-joseph.vercel.app](https://benoy-joseph.vercel.app)
-
 - 🎓 Computer Science grad student at Northeastern University
 - 🛠️ Software Engineer Intern at MundoPrints (Summer 2026): built an LLM-powered instant-quote feature and a RAG chatbot grounded in catalog and policy data
 - 💼 Analytics Manager at HSBC (2024–25): built a React marketplace for internal automation tools that doubled adoption, and automated workflows across 10+ projects with Python and Alteryx, saving ~1,000 hours a year
