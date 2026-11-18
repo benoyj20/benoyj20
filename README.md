@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/benoyjoseph01/"><img src="https://img.shields.io/badge/LinkedIn-161b33?style=for-the-badge&logo=linkedin&logoColor=7aa8ff" alt="LinkedIn"></a>
+  <a href="https://benoy-joseph.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161b33?style=for-the-badge&logo=vercel&logoColor=c9a7ff" alt="Portfolio"></a>
   <a href="mailto:benoyj22@gmail.com"><img src="https://img.shields.io/badge/Email-161b33?style=for-the-badge&logo=gmail&logoColor=f2b66d" alt="Email"></a>
   <a href="https://github.com/benoyj20/benoyj20/blob/main/assets/Benoy_Joseph_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-161b33?style=for-the-badge&logo=readthedocs&logoColor=8fd6b4" alt="Résumé"></a>
 </p>
