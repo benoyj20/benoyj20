@@ -7,8 +7,11 @@
 </p>
 
 <p align="center">
+  <a href="https://benoy-joseph.vercel.app"><img src="https://img.shields.io/badge/View_my_portfolio_%E2%86%92-F2B66D?style=for-the-badge&logo=vercel&logoColor=11142a" alt="View my portfolio" height="40"></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/benoyjoseph01/"><img src="https://img.shields.io/badge/LinkedIn-161b33?style=for-the-badge&logo=linkedin&logoColor=7aa8ff" alt="LinkedIn"></a>
-  <a href="https://benoy-joseph.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161b33?style=for-the-badge&logo=vercel&logoColor=c9a7ff" alt="Portfolio"></a>
   <a href="mailto:benoyj22@gmail.com"><img src="https://img.shields.io/badge/Email-161b33?style=for-the-badge&logo=gmail&logoColor=f2b66d" alt="Email"></a>
   <a href="https://github.com/benoyj20/benoyj20/blob/main/assets/Benoy_Joseph_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-161b33?style=for-the-badge&logo=readthedocs&logoColor=8fd6b4" alt="Résumé"></a>
 </p>
@@ -16,6 +19,8 @@
 ---
 
 ### About me
+
+> **Portfolio:** [benoy-joseph.vercel.app](https://benoy-joseph.vercel.app)
 
 - 🎓 Computer Science grad student at Northeastern University
 - 🛠️ Software Engineer Intern at MundoPrints (Summer 2026): built an LLM-powered instant-quote feature and a RAG chatbot grounded in catalog and policy data
