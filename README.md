@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://benoy-joseph.vercel.app"><img src="assets/portfolio-button.svg" alt="View my portfolio at benoy-joseph.vercel.app" width="420"></a>
+  <a href="https://benoy-joseph.vercel.app"><img src="assets/portfolio-button.svg" alt="View my portfolio" width="270"></a>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ### About me
 
-> **Portfolio:** [benoy-joseph.vercel.app](https://benoy-joseph.vercel.app)
+> **Portfolio:** [see my work →](https://benoy-joseph.vercel.app)
 
 - 🎓 Computer Science grad student at Northeastern University
 - 🛠️ Software Engineer Intern at MundoPrints (Summer 2026): built an LLM-powered instant-quote feature and a RAG chatbot grounded in catalog and policy data
