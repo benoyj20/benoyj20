@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://benoy-joseph.vercel.app"><img src="https://img.shields.io/badge/View_my_portfolio_%E2%86%92-F2B66D?style=for-the-badge&logo=vercel&logoColor=11142a" alt="View my portfolio" height="40"></a>
+  <a href="https://benoy-joseph.vercel.app"><img src="assets/portfolio-button.svg" alt="View my portfolio at benoy-joseph.vercel.app" width="420"></a>
 </p>
 
 <p align="center">
