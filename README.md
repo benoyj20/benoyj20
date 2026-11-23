@@ -52,7 +52,7 @@
 <sub>PyTorch · TensorFlow · scikit-learn · Apache Airflow · MLflow · pandas · NumPy · DVC</sub>
 
 **LLMs and RAG**<br>
-<img src="assets/icons/llms.svg" alt="OpenAI, Google Gemini, Claude"><br>
+<img src="assets/icons/llms-rag.svg" alt="OpenAI, Google Gemini, Claude, RAG"><br>
 <sub>OpenAI · Google Gemini · Claude · RAG with Redis vector search</sub>
 
 **Web and APIs**<br>
