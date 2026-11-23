@@ -48,8 +48,12 @@
 <sub>Python · Java · TypeScript · JavaScript · Go · C · C++ · R · Bash · HTML · CSS</sub>
 
 **AI, machine learning, and MLOps**<br>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow, scikit-learn"><img src="assets/icons/airflow-mlflow.svg" alt="Apache Airflow, MLflow"><br>
-<sub>PyTorch · TensorFlow · scikit-learn · Apache Airflow · MLflow</sub>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow, scikit-learn"><img src="assets/icons/airflow-mlflow.svg" alt="Apache Airflow, MLflow"><img src="assets/icons/pandas-numpy-dvc.svg" alt="pandas, NumPy, DVC"><br>
+<sub>PyTorch · TensorFlow · scikit-learn · Apache Airflow · MLflow · pandas · NumPy · DVC</sub>
+
+**LLMs and RAG**<br>
+<img src="assets/icons/llms.svg" alt="OpenAI, Google Gemini, Claude"><br>
+<sub>OpenAI · Google Gemini · Claude · RAG with Redis vector search</sub>
 
 **Web and APIs**<br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,vite,php&theme=dark" alt="React, Next.js, Node.js, Express, FastAPI, Tailwind CSS, Vite, PHP"><br>
@@ -60,8 +64,12 @@
 <sub>PostgreSQL · MySQL · MongoDB · Redis · SQLite</sub>
 
 **Cloud and DevOps**<br>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,terraform,docker,kubernetes,githubactions,prometheus,linux,git,github&theme=dark" alt="AWS, Azure, Google Cloud, Cloudflare, Terraform, Docker, Kubernetes, GitHub Actions, Prometheus, Linux, Git, GitHub"><br>
-<sub>AWS · Azure · Google Cloud · Cloudflare · Terraform · Docker · Kubernetes · GitHub Actions · Prometheus · Linux · Git · GitHub</sub>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,terraform,docker,kubernetes,githubactions,prometheus&theme=dark" alt="AWS, Azure, Google Cloud, Cloudflare, Terraform, Docker, Kubernetes, GitHub Actions, Prometheus"><img src="assets/icons/otel-nvidia.svg" alt="OpenTelemetry, NVIDIA"><img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" alt="Linux, Git, GitHub"><br>
+<sub>AWS · Azure · Google Cloud · Cloudflare · Terraform · Docker · Kubernetes · GitHub Actions · Prometheus · OpenTelemetry · NVIDIA CUDA &amp; DCGM · Linux · Git · GitHub</sub>
+
+**Testing**<br>
+<img src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="Vitest"><img src="assets/icons/pytest-junit.svg" alt="pytest, JUnit"><br>
+<sub>Vitest · pytest · JUnit</sub>
 
 ### Contributions
 
